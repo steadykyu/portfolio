@@ -23,4 +23,5 @@
 > Java 11/ Spring Boot2.7.9/Gradle/Spring Data JPA </br>
 > MYSQL/Spring Security/React </br>
 > </br>
-> ***[프로젝트 상세 설명](https://github.com/steadykyu/modudogcat_refactoring)*** </br>
+> ***[프로젝트 상세 설명(2023.04~-ing](https://github.com/steadykyu/modudogcat_refactoring)*** </br>
+> ***[팀 프로젝트(2023.03~2023.04)](https://github.com/steadykyu/modudogcat)***
